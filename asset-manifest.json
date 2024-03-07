@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/giladapp/static/css/main.5bd81135.css",
+    "main.js": "/giladapp/static/js/main.f33c516f.js",
+    "static/js/592.1187661d.chunk.js": "/giladapp/static/js/592.1187661d.chunk.js",
+    "index.html": "/giladapp/index.html",
+    "main.5bd81135.css.map": "/giladapp/static/css/main.5bd81135.css.map",
+    "main.f33c516f.js.map": "/giladapp/static/js/main.f33c516f.js.map",
+    "592.1187661d.chunk.js.map": "/giladapp/static/js/592.1187661d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bd81135.css",
+    "static/js/main.f33c516f.js"
+  ]
+}
